@@ -1,3 +1,3 @@
 # Ne-znau
-Description
+Bogdan ty kto takoi
 README
